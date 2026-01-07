@@ -12,7 +12,7 @@ A simple webpage to send birthday greetings.
 
     ```bash
     # Clone this repository
-    $ git clone https://github.com/jihadanbs/selamat-ulang-tahun
+    $ git clone https://github.com/farrasazhary/selamat-ulang-tahun-card
 
     # Navigate to the repository folder
     $ cd selamat-ulang-tahun
