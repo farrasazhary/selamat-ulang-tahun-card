@@ -2,7 +2,7 @@
 
 A simple webpage to send birthday greetings.
 
-[Live Demo](https://jihadanbs.github.io/selamat-ulang-tahun/)
+[Live Demo](https://farrasazhary.github.io/selamat-ulang-tahun-card/)
 
 ## 🚀 How to Use
 
@@ -42,9 +42,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Connect with me**:
 
-- GitHub: [@jihadanbs](https://github.com/jihadanbs)
-- YouTube: [@jihadanbs](https://www.youtube.com/@jihadanbeckhiano3044)
-- Instagram: [@jihadanbs](https://instagram.com/jihadanbs/)
-- LinkedIn: [@jihadanbs](https://www.linkedin.com/in/jihadan-beckhianosyuhada-68b977277/)
